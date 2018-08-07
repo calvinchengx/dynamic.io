@@ -1,6 +1,6 @@
 {
   "name": "dynamic.io",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "socket.io server subclass for dynamic hosts and namespaces",
   "keywords": [
     "dynamic",
@@ -19,10 +19,10 @@
     "url": "git://github.com/PencilCode/dynamic.io"
   },
   "dependencies": {
+    "debug": "^3.1.0",
     "socket.io": "~1.2.0",
-    "socket.io-parser": "~2.2.2",
-    "socket.io-adapter": "~0.3.1",
-    "debug": "^3.1.0"
+    "socket.io-adapter": "^1.1.1",
+    "socket.io-parser": "^3.2.0"
   },
   "devDependencies": {
     "mocha": "5.2.0",
