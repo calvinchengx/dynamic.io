@@ -1,6 +1,6 @@
 {
   "name": "dynamic.io",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "socket.io server subclass for dynamic hosts and namespaces",
   "keywords": [
     "dynamic",
@@ -29,7 +29,7 @@
     "expect.js": "0.3.1",
     "socket.io-client": "1.2.0",
     "supertest": "3.1.0",
-    "superagent": "0.17.0",
+    "superagent": "3.8.3",
     "istanbul": "0.2.3"
   },
   "contributors": [
