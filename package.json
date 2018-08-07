@@ -1,6 +1,6 @@
 {
   "name": "dynamic.io",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "socket.io server subclass for dynamic hosts and namespaces",
   "keywords": [
     "dynamic",
@@ -22,7 +22,7 @@
     "socket.io": "~1.2.0",
     "socket.io-parser": "~2.2.2",
     "socket.io-adapter": "~0.3.1",
-    "debug": "~0.7.4"
+    "debug": "^3.1.0"
   },
   "devDependencies": {
     "mocha": "5.2.0",
